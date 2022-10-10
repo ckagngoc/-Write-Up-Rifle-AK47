@@ -20,7 +20,7 @@ Như dự tính, ta xử lý phần bytecode thứ nhất có địa chỉ là 0
 
 ![Imgur](https://i.imgur.com/TmarP3q.png)
 
-Dump đọa bytecode đó ra, sau đó xem xét xem handle sẽ làm gì với vùng bytecode của ta:
+Dump đoạn bytecode đó ra, sau đó xem xét xem handle sẽ làm gì với vùng bytecode của ta:
 
 ![Imgur](https://i.imgur.com/v3wOtKG.png)
 
